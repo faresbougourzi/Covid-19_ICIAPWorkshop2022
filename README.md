@@ -54,7 +54,7 @@ Paper submission TBD
 * Luiz M. Garcia Gonçalves    Universidade Federal do Rio Grande do Norte BR
 
 * Nastaran Enshaei     Concordia University, Montreal, Canada
-* 
+
 * Atika Rivenq                University of Valenciennes France.
 
 * Yassin El Hillali             University of Valenciennes France.
