@@ -54,6 +54,15 @@ Paper submission TBD
 * Luiz M. Garcia Gonçalves    Universidade Federal do Rio Grande do Norte BR
 
 * Nastaran Enshaei     Concordia University, Montreal, Canada
+* 
+* Atika Rivenq                University of Valenciennes France.
+
+* Yassin El Hillali             University of Valenciennes France.
+
+* Abdeldjalil OUAHABI      University of Tours France
+
+* Mourad ZRIBI               University of Littoral Côte d'Opale (ULCO) Dunkerque France
+
 
 ## For more information email us: faresbougourzi@gmail.com
 
