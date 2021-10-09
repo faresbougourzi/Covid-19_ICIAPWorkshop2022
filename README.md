@@ -1,6 +1,6 @@
 # Call For Papers 
 
-## COVID2022 - Medical Imaging for Covid-19 Analysis.
+## COVID2022 - Medical Imaging Analysis for Covid-19.
 ## ICIAP Workshop
 ## May 2022- Lecce, Italy
 
