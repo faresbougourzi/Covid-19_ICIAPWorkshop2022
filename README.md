@@ -69,7 +69,7 @@ https://cmt3.research.microsoft.com/Covid2022
 * Mourad ZRIBI               University of Littoral Côte d'Opale (ULCO) Dunkerque France
 
 
-## For more information email us: faresbougourzi@gmail.com
+## For more information mail us: faresbougourzi@gmail.com
 
 
 
