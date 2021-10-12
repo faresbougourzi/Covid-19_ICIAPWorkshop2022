@@ -24,7 +24,7 @@ Papers are invited under the following topics (but not limited to):
 *  #### Covid-19 Infection segmentation.
 *  #### Covid-19 Diagnosis from CT-scans. 
 *  #### Covid-19 Severity prediction from CT-scans.
-*  #### Covid-19 Diagnosis using Multimodal Imaging D
+*  #### Covid-19 Diagnosis using Multimodal Imaging Data.
 *  #### Using other medical Imaging (Not X-ray Nor CT-scans) for Covid-19 Recognition such as Ultrasound.
 *  #### Novel datasets and performance benchmarks.
 
