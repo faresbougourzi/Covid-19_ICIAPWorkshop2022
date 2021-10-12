@@ -30,7 +30,9 @@ Papers are invited under the following topics (but not limited to):
 
 #### Accepted Papers will be published by Springer LNCS post-proceedings
 
-Paper submission TBD
+## Paper Submission Website:
+
+https://cmt3.research.microsoft.com/Covid2022
 
 ## IMPORTANT DATES
 ### Paper Submission Deadline: March 15, 2022
