@@ -33,7 +33,8 @@ Papers are invited under the following topics (but not limited to):
 Paper submission TBD
 
 ## IMPORTANT DATES
-### Paper Submission: March 15, 2022
+### Paper Submission Deadline: March 15, 2022
+### Revision Deadline: March 30, 2022
 ### Notification of acceptance: April 07, 2022
 ### Camera ready: April 21, 2022
 
@@ -52,6 +53,8 @@ Paper submission TBD
 ## TECHNICAL PROGRAM COMMITTEE
 
 * Luiz M. Garcia Gonçalves    Universidade Federal do Rio Grande do Norte BR
+
+* Anil Anthony Bharath  Imperial College London UK
 
 * Nastaran Enshaei     Concordia University, Montreal, Canada
 
