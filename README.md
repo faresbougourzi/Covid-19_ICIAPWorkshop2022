@@ -34,7 +34,7 @@ Paper submission TBD
 
 ## IMPORTANT DATES
 ### Paper Submission: March 15, 2022
-### Notification of acceptance: March 31, 2022
+### Notification of acceptance: April 07, 2022
 ### Camera ready: April 21, 2022
 
 ## WORKSHOP ORGANIZERS
