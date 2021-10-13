@@ -68,6 +68,8 @@ https://cmt3.research.microsoft.com/Covid2022
 
 * Mourad ZRIBI               University of Littoral Côte d'Opale (ULCO) Dunkerque France
 
+* Sebastiano Battiato  University of Catania Italy
+
 
 ## For more information mail us: faresbougourzi@gmail.com
 
