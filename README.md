@@ -4,6 +4,11 @@
 ## ICIAP Workshop
 ## May 2022- Lecce, Italy
 
+## Website: 
+ https://sites.google.com/view/covid19iciap2022
+
+## Overview:
+
 Since the end of 2019, the whole world has been living with the effects of the COVID-19 disease. Due 
 to the airborne nature of the novel coronavirus, the COVID-19 disease has spread rapidly in many 
 countries in a short time and has also been declared a global pandemic. The spread of this virus can be 
